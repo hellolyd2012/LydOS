@@ -1,6 +1,8 @@
 # LydOS
 
-一个轻量级、简单易用的桌面系统
+![LydOSLogo](Docs/Img/LydOSLogo.bmp)
+
+一个轻量级的操作系统
 
 # 编译
 
